@@ -277,7 +277,7 @@
     "pid": "0F",
     "dataLen": 0,
     "units": [ "CELSIUS", "FAHRENHEIT" ],
-    "min": [ -127, -196.6 ],
+    "min": [ -40, -196.6 ],
     "max": [ 128.75, 263.75 ],
     "decimals": [ 2, 2 ],
     "formula": "CAN_RAW",
